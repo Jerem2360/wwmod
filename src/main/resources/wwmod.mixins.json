@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "jerem2360.wwmod.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "wwmod.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
